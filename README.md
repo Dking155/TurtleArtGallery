@@ -1,2 +1,0 @@
-# TurtleArtGallery
-cx
